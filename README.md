@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do João Victor 😁
+## Bem-vindo(a) ao perfil do João Victor 
 
  <div>
    <a href="https://github.com/joaovictorog">
